@@ -17,6 +17,7 @@
 		13073BA11EFD719800E9E6E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 13073B9F1EFD719800E9E6E1 /* LaunchScreen.storyboard */; };
 		13073BAC1EFD719800E9E6E1 /* TicktactooTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13073BAB1EFD719800E9E6E1 /* TicktactooTests.swift */; };
 		13073BB71EFD719800E9E6E1 /* TicktactooUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13073BB61EFD719800E9E6E1 /* TicktactooUITests.swift */; };
+		13073BC51EFD7A9300E9E6E1 /* Grid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13073BC41EFD7A9300E9E6E1 /* Grid.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		13073BB21EFD719800E9E6E1 /* TicktactooUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TicktactooUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		13073BB61EFD719800E9E6E1 /* TicktactooUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicktactooUITests.swift; sourceTree = "<group>"; };
 		13073BB81EFD719800E9E6E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		13073BC41EFD7A9300E9E6E1 /* Grid.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Grid.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				13073B9D1EFD719800E9E6E1 /* Assets.xcassets */,
 				13073B9F1EFD719800E9E6E1 /* LaunchScreen.storyboard */,
 				13073BA21EFD719800E9E6E1 /* Info.plist */,
+				13073BC41EFD7A9300E9E6E1 /* Grid.swift */,
 			);
 			path = Ticktactoo;
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 				13073B971EFD719800E9E6E1 /* GameScene.swift in Sources */,
 				13073B991EFD719800E9E6E1 /* GameViewController.swift in Sources */,
 				13073B911EFD719800E9E6E1 /* AppDelegate.swift in Sources */,
+				13073BC51EFD7A9300E9E6E1 /* Grid.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
